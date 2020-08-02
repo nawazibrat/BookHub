@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourite">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About App</string>
+    <string name="navigation_drawer">Book Hub</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="favoutites_fragment">Favourites Fragment</string>
+    <string name="profile_fragment">Hello, my name is <b>Ibrat Nawaz</b>. I am a Full Stack Developer. You can hire me a web or android
+        developer. You can contact me on +91XXXXXX6454 or mail me at example@gmail.com</string>
+    <string name="about_app_fragment">Book Hub is free android app for all the users across the world.  It is made by love for
+        people who are book lovers</string>
+    <string name="add_to_favourites">ADD TO FAVOURITES</string>
+</resources>
